@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-wraper {
+    max-width: 1000px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+/* .main-container {
+    width: 80%;
+} */

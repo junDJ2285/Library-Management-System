@@ -1,0 +1,23 @@
+.nav-link-wraper{
+    gap: 25%;
+    display: flex;
+    justify-content: center;
+   
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #161616;
+    margin-bottom: 10px;
+    border: 1px solid #5e5b5b;
+    padding: 5px 12px;
+    border-radius: 5px;
+    
+}
+
+.active-link {
+    box-shadow: 0px 0px 7px -1px;
+    font-weight: bold;
+    background-color: rgb(22 119 255);;
+}
